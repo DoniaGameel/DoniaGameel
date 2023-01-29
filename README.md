@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Donia</h1>
 <h3 align="center">A passionate computer engineering student at faculty of engineering, Cairo University.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doniagameel" alt="doniagameel" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/r9hxknemxtc40iv" target="blank"><img src="https://img.shields.io/twitter/follow/r9hxknemxtc40iv?logo=twitter&style=for-the-badge" alt="r9hxknemxtc40iv" /></a> </p>
-
 - 🔭 I’m currently working on **Flutter projects.**
 
 - 🌱 I’m currently learning **mobile development using flutter.**
