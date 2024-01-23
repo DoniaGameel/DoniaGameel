@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Donia</h1>
 <h3 align="center">A passionate computer engineering student at faculty of engineering, Cairo University.</h3>
 
-- 🔭 I’m currently working on **Flutter projects.**
-
-- 🌱 I’m currently learning **Back End Track Courses**
-
 - 💬 Ask me about **anything related to computer engineering. I will be happy to help.**
 
 - 📫 How to reach me **doniagameel34@gmail.com**
