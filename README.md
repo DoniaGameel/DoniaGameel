@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Donia</h1>
-<h3 align="center">A passionate computer engineering student at faculty of engineering, Cairo University.</h3>
+<h3 align="center">A Passionate Software Engineer.</h3>
 
 - 💬 Ask me about **anything related to computer engineering. I will be happy to help.**
 
